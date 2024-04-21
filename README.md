@@ -18,26 +18,27 @@
 
 
   <div align="center">
-  <a href="https://github.com/Khadeeejah/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Khadeeejah&style=for-the-badge">
+  <a href="https://github.com/LXJ2/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=LXJ2&style=for-the-badge">
 </a>
 
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> **About Me:**
 
 
-👯Volunteered at different tech events as a Dev Advocate and organiser<br>
+👋 Hey there! I'm Rere, a frontend developer with a passion for building decentralized applications (dApps) and exploring the exciting world of Web3 technologies.
 
-📖  I’m learning rust, Solidity at the moment. <br>
+💻 With a solid foundation in frontend development languages like HTML, CSS, and JavaScript, I've transitioned my focus to leveraging blockchain technology and decentralized protocols to create innovative and user-centric applications.
 
-💪I am eager to acquire new knowledge and improve my skills. <br>
+🌐 My journey into Web3 development has been fueled by a curiosity for decentralized finance (DeFi), non-fungible tokens (NFTs), and the potential of blockchain to revolutionize industries beyond finance.
 
- 
-💬 Ask me about : Technical writing, web3 front-end development <br> 
+🛠️ Proficient in frameworks and libraries such as React.js, Vue.js, and Web3.js, I thrive on the challenges of integrating blockchain functionality into intuitive and seamless user interfaces.
 
-🤟I love cooking, listening to music , reading, and networking <br>  
+🔗 As an advocate for Web3 adoption, I believe in the importance of accessibility and user experience in driving mainstream adoption of decentralized technologies. My goal is to create engaging and user-friendly dApps that empower individuals to participate in the decentralized ecosystem.
 
-🔭 I’m currently working on different projects in web3, Open to Software/Blockchain Engineer roles and Devrel roles<br>
+💬 Passionate about technical writing and community education, I enjoy sharing my knowledge and insights through blog posts, tutorials, and speaking engagements to inspire others to join the Web3 revolution.
+
+🚀 Excited to collaborate on projects that push the boundaries of Web3 innovation and contribute to building a more decentralized and equitable future.
 
 
 
@@ -52,11 +53,11 @@
 
 
 
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=PhiloCwh&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=PhiloCwh&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=LXJ2&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=LXJ2&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
   
   
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=PhiloCwh&theme=darcula&hide_border=true&background=FFFFFF00">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=LXJ2&theme=darcula&hide_border=true&background=FFFFFF00">
   <br>
 
 
@@ -112,13 +113,13 @@
 
  
 <h2>✍🏽 Sign Out</h2>
-<h3>Please leave me a cool note. <a href="https://github.com/Khadeeejah/Khadeeejah/issues/new?template=guestbook-entry.md">here</a>!</h3>
+<h3>Please leave me a cool note. <a href="https://github.com/LXJ2/LXJ2/issues/new?template=guestbook-entry.md">here</a>!</h3>
 
                  
        
                                  
-![snake gif](https://github.com/Khadeeejah/Khadeeejah/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/LXJ2/LXJ2/blob/output/github-contribution-grid-snake.svg)
 
 
 <!--
-**Khadeeejah/Khadeeejah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**LXJ2/LXJ2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
